@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>I dont wanna learn React!!!</h1>
+        <h1>Click for actions!!!</h1>
       </header>
       <Counter />
     </div>
